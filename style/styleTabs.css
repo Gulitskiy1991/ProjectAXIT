@@ -107,7 +107,7 @@
         font-size: 18px;
     }
 }
-@media only screen and (max-device-width : 320px) {
+@media only screen and (max-device-width : 480px) {
     .container {
         max-width: 100%;
         margin: 0;

@@ -95,7 +95,7 @@
         width: 30%;
     }
 }
-@media only screen and (max-device-width : 320px) {
+@media only screen and (max-device-width : 480px) {
     .wrapperPricing  {
         max-width: 320px;
         margin: 0 auto;

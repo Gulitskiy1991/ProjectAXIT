@@ -130,7 +130,7 @@
         font-size: 14px;
     }
 }
-@media only screen and (max-device-width : 320px) {
+@media only screen and (max-device-width : 480px) {
     .mainBody {
         max-width: 100%;
         margin: 0;

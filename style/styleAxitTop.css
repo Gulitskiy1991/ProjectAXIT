@@ -299,7 +299,7 @@ body {
         font-size: 40px;
     }
 }
-@media only screen and (max-device-width : 320px) {
+@media only screen and (max-device-width : 480px) {
 
     .wrapperAxit {
         max-width: 320px;

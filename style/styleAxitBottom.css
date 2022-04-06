@@ -235,7 +235,7 @@ width: 100%;
         font-size: 30px;
     }
 }
-@media only screen and (max-device-width : 320px) {
+@media only screen and (max-device-width : 480px) {
     .wrapperBottomBlock {
         max-width: 320px;
         margin: 0 auto;
