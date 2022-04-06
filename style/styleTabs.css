@@ -115,6 +115,7 @@
     }
     .tabContent__text {
         width: 100%;
+        align-items: center;
     }
     .container__newContainer {
         max-width: 480px;
@@ -131,7 +132,7 @@
         text-align: center;
     }
     .tabContent__button {
-        width: 242px;
+        width: 260px;
         height: 50px;
         font-size: 18px;
     }
