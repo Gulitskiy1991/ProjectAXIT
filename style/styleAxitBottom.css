@@ -237,7 +237,7 @@ width: 100%;
 }
 @media only screen and (max-device-width : 480px) {
     .wrapperBottomBlock {
-        max-width: 320px;
+        max-width: 480px;
         margin: 0 auto;
     }
     .topContainer__button {

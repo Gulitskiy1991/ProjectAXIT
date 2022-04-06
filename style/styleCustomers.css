@@ -123,7 +123,7 @@
 }
 @media only screen and (max-device-width : 480px) {
     .wrapperCustomers {
-        max-width: 320px;
+        max-width: 480px;
         margin: 0 auto;
     }
     .wrapperCustomers__mainContent {

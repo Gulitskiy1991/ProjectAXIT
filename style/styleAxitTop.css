@@ -302,7 +302,7 @@ body {
 @media only screen and (max-device-width : 480px) {
 
     .wrapperAxit {
-        max-width: 320px;
+        max-width: 480px;
         margin: 0 auto;
     }
     .wrapperAxit__container {
