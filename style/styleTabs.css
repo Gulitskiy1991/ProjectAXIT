@@ -109,12 +109,12 @@
 }
 @media only screen and (max-device-width : 480px) {
     .container {
-        max-width: 100%;
+        max-width: 480px;
         margin: 0;
         padding: 0;
     }
     .container__newContainer {
-        max-width: 320px;
+        max-width: 480px;
     }
     .imgAdaptiv {
         display: none;
